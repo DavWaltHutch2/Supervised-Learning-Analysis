@@ -1,6 +1,6 @@
-# Project Title
+# Supervised Learning Analysis 
 
-One Paragraph of project description goes here
+This project reviews how several supervised learnng algorithms react under different scenarios. Specifically, I will review 1) K- Nearest Neighbors (KNN)  2) Decision Trees  3) Support Vector Machines (SVM)  4) Boosting  5) Artificial Neural Networks (ANN)  and their application to the HR Analytics Data Set and the Wisconsin Breast Cancer Data Set found on Kaggle and UCI Machine Learning Repository respectively
 
 ## Getting Started
 
